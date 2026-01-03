@@ -1,2 +1,14 @@
-# java-online-doctor-appointment
-BSc academic project: Online doctor appointment system implemented in Java demonstrating OOP and basic file handling.
+# Online Doctor Appointment System (Java)
+
+This is an academic BSc project built using Java. 
+The system allows users to book doctor appointments online and demonstrates basic Java programming and object-oriented concepts.
+
+Tech Stack:
+- Java
+- OOP Concepts
+- File Handling (if used)
+
+Features:
+- Create doctor and patient objects
+- Book and display appointments
+- Demonstrates object-oriented programming skills
