@@ -1,0 +1,13 @@
+public class Doctor {
+    String name;
+    String specialty;
+
+    public Doctor(String name, String specialty){
+        this.name = name;
+        this.specialty = specialty;
+    }
+
+    public void displayDoctor(){
+        System.out.println("Doctor: " + name + ", Specialty: " + specialty);
+    }
+}

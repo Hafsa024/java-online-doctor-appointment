@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args){
+        Doctor d1 = new Doctor("Dr. Sharma", "Cardiologist");
+        Patient p1 = new Patient("Hafsa");
+        Appointment a1 = new Appointment(d1, p1, "2026-01-10");
+        a1.displayAppointment();
+    }
+}
